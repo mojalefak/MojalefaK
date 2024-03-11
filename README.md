@@ -15,9 +15,12 @@
 <h2>👨‍💻 Certification:</h2>
 
 - [Google CyberSecurity Professional Certificate](https://coursera.org/share/704f71ba5684941e8de92264835d41e7)
-- [CompTIA A+](http://verify.CompTIA.org) (6SE0DPDQGFFQ17GY)
-- </b>Cisco Certified Network Admninistrator (CCNA)</b>
 - [ISO27001 - Dynamics of Information Security Management System](https://alison.com/certification/check/%242y%2410%24SzU1mhB8UfjjdpI1D2oL7eaYuYq8DlK.48p8nFTmhamGl340ErHb)
+- [ITIL v4 Fundamentals - IT Service Management](https://alison.com/certification/check/%242y%2410%24RX9yTHpKdpHDo3uomddvs.oIzu5UvGXdyy5dbwKOmuLjfSoSDltqy)
+- [IBM Project Management Fundamentals](https://www.credly.com/go/6PZqGlvO)
+- [IBM Data Analytics](https://www.credly.com/go/Vk3wBtIz)
+- </b>Cisco Certified Network Admninistrator (CCNA)</b>
+- [CompTIA A+](http://verify.CompTIA.org) (6SE0DPDQGFFQ17GY)
 
 <h2> 🤳 Connect with me:</h2>
 
