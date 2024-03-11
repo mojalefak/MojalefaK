@@ -15,7 +15,7 @@
 <h2>👨‍💻 Certification:</h2>
 
 - [Google CyberSecurity Professional Certificate](https://coursera.org/share/704f71ba5684941e8de92264835d41e7)
-- [CompTIA A+](http://verify.CompTIA.org) code: 6SE0DPDQGFFQ17GY
+- [CompTIA A+](http://verify.CompTIA.org) (6SE0DPDQGFFQ17GY)
 - </b>Cisco Certified Network Admninistrator (CCNA)</b>
 - [ISO27001 - Dynamics of Information Security Management System](https://alison.com/certification/check/%242y%2410%24SzU1mhB8UfjjdpI1D2oL7eaYuYq8DlK.48p8nFTmhamGl340ErHb)
 
