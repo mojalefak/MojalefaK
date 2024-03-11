@@ -2,18 +2,13 @@
 
 <h2>👨‍💻 Network & CyberSecurity:</h2>
 
-- <b>NIST CyberSecurity Framework (https://www.nist.gov/news-events/news/2024/02/nist-releases-version-20-landmark-cybersecurity-framework)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- Firewall Setup and Configuration using PFSense FireWall
+- Packet Sniffing using WireShark Network Analyzer
 
 <h2>👨‍💻 Governance, Risk & Complience (GRC):</h2>
 
 - [NIST CyberSecurity Framework](https://www.nist.gov/news-events/news/2024/02/nist-releases-version-20-landmark-cybersecurity-framework)
 - [NIST Risk Management Framework](https://csrc.nist.gov/projects/risk-management/about-rmf)
-
-
-
 
 <h2>👨‍💻 Certification:</h2>
 
