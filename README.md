@@ -1,28 +1,26 @@
-<h1>Hi, I'm Mojalefa! <br/><a href="https://github.com/mojalefak">Network & CyberSecurity</a>, <a href="https://www.linkedin.com/in/mojalefakholumo/">CyberSecurity Professional</a></h1>
+<h1>Hi, I'm Mojalefa! <br/><a href="https://github.com/mojalefak">Network & CyberSecurity Professional</a>, <a href="https://www.linkedin.com/in/mojalefakholumo/"></a></h1>
 
-<h2>👨‍💻 Governance, Risk & Complience:</h2>
-
-- <b>NIST CyberSecurity Framework (https://www.nist.gov/news-events/news/2024/02/nist-releases-version-20-landmark-cybersecurity-framework)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-
-<h2>👨‍💻 Network Engineering:</h2>
+<h2>👨‍💻 Network & CyberSecurity:</h2>
 
 - <b>NIST CyberSecurity Framework (https://www.nist.gov/news-events/news/2024/02/nist-releases-version-20-landmark-cybersecurity-framework)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
-<h2>👨‍💻 CyberSecurity:</h2>
+<h2>👨‍💻 Governance, Risk & Complience (GRC):</h2>
 
-- <b>NIST CyberSecurity Framework (https://www.nist.gov/news-events/news/2024/02/nist-releases-version-20-landmark-cybersecurity-framework)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- [NIST CyberSecurity Framework](https://www.nist.gov/news-events/news/2024/02/nist-releases-version-20-landmark-cybersecurity-framework)
+- [NIST Risk Management Framework](https://csrc.nist.gov/projects/risk-management/about-rmf)
+
+
+
 
 <h2>👨‍💻 Certification:</h2>
 
+- </b>Google CyberSecurity Professional Certificate</b>
+- </b>CompTIA A+</b>
+- </b>Cisco Certified Network Admninistrator (CCNA)</b>
+- </b>ISO27001</b>
 
 <h2>📺 Popular YouTube Videos</h2>
 
