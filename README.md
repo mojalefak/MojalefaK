@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mojalefa! <br/><a href="https://github.com/mojalefak">Network Engineer</a>, <a href="https://www.linkedin.com/in/mojalefakholumo/">CyberSecurity Professional</a></h1>
+<h1>Hi, I'm Mojalefa! <br/><a href="https://github.com/mojalefak">Network & CyberSecurity</a>, <a href="https://www.linkedin.com/in/mojalefakholumo/">CyberSecurity Professional</a></h1>
 
 <h2>👨‍💻 Governance, Risk & Complience:</h2>
 
