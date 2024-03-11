@@ -20,7 +20,7 @@
 - [IBM Project Management Fundamentals](https://www.credly.com/go/6PZqGlvO)
 - [IBM Data Analytics](https://www.credly.com/go/Vk3wBtIz)
 - </b>Cisco Certified Network Admninistrator (CCNA)</b>
-- [CompTIA A+](http://verify.CompTIA.org) (6SE0DPDQGFFQ17GY)
+- [CompTIA A+](http://verify.CompTIA.org) [code](6SE0DPDQGFFQ17GY)
 
 <h2> 🤳 Connect with me:</h2>
 
