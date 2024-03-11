@@ -4,6 +4,8 @@
 
 - Firewall Setup and Configuration using PFSense FireWall
 - Packet Sniffing using WireShark Network Analyzer
+- Log Analysis using Python
+- Security Incident and Event Management (SIEM)
 
 <h2>👨‍💻 Governance, Risk & Complience (GRC):</h2>
 
