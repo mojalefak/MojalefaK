@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mojalefa! <br/><a href="https://github.com/mojalefak">Network & CyberSecurity Professional</a>, <a href="https://www.linkedin.com/in/mojalefakholumo/"></a></h1>
+<h1>Hi, I'm Mojalefa! <br/><a href="https://github.com/mojalefak">Network & CyberSecurity Professional</a> <a href="https://www.linkedin.com/in/mojalefakholumo/"></a></h1>
 
 <h2>👨‍💻 Network & CyberSecurity Projects:</h2>
 
@@ -14,10 +14,10 @@
 
 <h2>👨‍💻 Certification:</h2>
 
-- </b>Google CyberSecurity Professional Certificate</b>
-- </b>CompTIA A+</b>
+- [Google CyberSecurity Professional Certificate](https://coursera.org/share/704f71ba5684941e8de92264835d41e7)
+- [CompTIA A+](http://verify.CompTIA.org) code: 6SE0DPDQGFFQ17GY
 - </b>Cisco Certified Network Admninistrator (CCNA)</b>
-- </b>ISO27001</b>
+- [ISO27001 - Dynamics of Information Security Management System](https://alison.com/certification/check/%242y%2410%24SzU1mhB8UfjjdpI1D2oL7eaYuYq8DlK.48p8nFTmhamGl340ErHb)
 
 <h2> 🤳 Connect with me:</h2>
 
