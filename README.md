@@ -7,7 +7,7 @@
 - Log Analysis using Python
 - Security Incident and Event Management (SIEM)
 
-<h2>👨‍💻 Governance, Risk & Complience (GRC) Frameworks:</h2>
+<h2>👨‍💻 Governance, Risk & Complience Frameworks:</h2>
 
 - [NIST CyberSecurity Framework](https://www.nist.gov/news-events/news/2024/02/nist-releases-version-20-landmark-cybersecurity-framework)
 - [NIST Risk Management Framework](https://csrc.nist.gov/projects/risk-management/about-rmf)
